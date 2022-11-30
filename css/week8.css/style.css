@@ -1,0 +1,12 @@
+
+.items li:nth-child(even){
+    background-color: darkgoldenrod;
+}
+
+#header{
+    background-color: blue;
+    border-style: double;
+}
+.sub-head:hover{
+    background-color: beige;
+}
